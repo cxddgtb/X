@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 group-title="更新日期",2026-11-25
+#EXTINF:-1 group-title="更新日期",2026-11-27
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$IPV4•线路1
@@ -142,13 +142,15 @@ http://112.27.235.94:8000/hls/12/index.m3u8$IPV4•线路3
 #EXTINF:-1 group-title="🥝┃央视频道",CCTV11
 https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8$IPV4•线路4
 #EXTINF:-1 group-title="🥝┃央视频道",CCTV12
-http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8$IPV4•线路1
+http://124.165.251.82:85/tsfile/live/0012_1.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🥝┃央视频道",CCTV12
-http://175.8.28.207:9999/tsfile/live/0012_1.m3u8$IPV4•线路2
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🥝┃央视频道",CCTV12
-http://112.27.235.94:8000/hls/13/index.m3u8$IPV4•线路3
+http://175.8.28.207:9999/tsfile/live/0012_1.m3u8$IPV4•线路3
 #EXTINF:-1 group-title="🥝┃央视频道",CCTV12
-https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8$IPV4•线路4
+http://112.27.235.94:8000/hls/13/index.m3u8$IPV4•线路4
+#EXTINF:-1 group-title="🥝┃央视频道",CCTV12
+https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8$IPV4•线路5
 #EXTINF:-1 group-title="🥝┃央视频道",CCTV13
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🥝┃央视频道",CCTV13
@@ -358,9 +360,7 @@ https://live.264788.xyz/channel/ningxiaweishi$IPV4•线路1
 #EXTINF:-1 group-title="🥭┃卫视频道",宁夏卫视
 http://120.76.248.139/live/bfgd/4200000118.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🥭┃卫视频道",青海卫视
-https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$IPV4•线路1
-#EXTINF:-1 group-title="🥭┃卫视频道",青海卫视
-https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8$IPV4•线路2
+https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8$IPV4
 #EXTINF:-1 group-title="🥭┃卫视频道",天津卫视
 http://222.169.85.8:9901/tsfile/live/0135_1.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🥭┃卫视频道",天津卫视
